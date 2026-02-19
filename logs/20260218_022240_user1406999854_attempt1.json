@@ -1,0 +1,65 @@
+{
+  "timestamp": "20260218_022240",
+  "user_id": 1406999854,
+  "attempt_number": 1,
+  "strategy": "Standard extraction",
+  "success": true,
+  "extracted_classes_count": 9,
+  "extracted_classes": [
+    {
+      "course_code": "CS 224",
+      "day": "الأحد",
+      "start_time": "08:00",
+      "end_time": "09:15"
+    },
+    {
+      "course_code": "CS 222",
+      "day": "الاثنين",
+      "start_time": "09:45",
+      "end_time": "11:25"
+    },
+    {
+      "course_code": "CS 214",
+      "day": "الاثنين",
+      "start_time": "11:30",
+      "end_time": "13:10"
+    },
+    {
+      "course_code": "CS 222",
+      "day": "الاثنين",
+      "start_time": "13:15",
+      "end_time": "14:55"
+    },
+    {
+      "course_code": "CS 221",
+      "day": "الثلاثاء",
+      "start_time": "08:00",
+      "end_time": "09:40"
+    },
+    {
+      "course_code": "CS 221",
+      "day": "الثلاثاء",
+      "start_time": "11:30",
+      "end_time": "13:10"
+    },
+    {
+      "course_code": "CS 214",
+      "day": "الثلاثاء",
+      "start_time": "13:15",
+      "end_time": "14:55"
+    },
+    {
+      "course_code": "CS 224",
+      "day": "الأربعاء",
+      "start_time": "08:00",
+      "end_time": "09:15"
+    },
+    {
+      "course_code": "IC 103",
+      "day": "الأربعاء",
+      "start_time": "16:30",
+      "end_time": "18:10"
+    }
+  ],
+  "error": null
+}

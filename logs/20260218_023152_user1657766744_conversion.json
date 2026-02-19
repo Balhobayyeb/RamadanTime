@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260218_023152",
+  "user_id": 1657766744,
+  "extracted_count": 8,
+  "converted_count": 6,
+  "unmapped_count": 2,
+  "unmapped_times": [
+    "CS 221: 09:00-10:40",
+    "IC 103: 16:30-18:10"
+  ],
+  "conversion_rate": "75.0%"
+}
